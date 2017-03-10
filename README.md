@@ -1,0 +1,2 @@
+# TheIdealSearch
+searching algorithm
